@@ -9,7 +9,7 @@ For additional information and other complete reForged rulesets, please visit th
 
 ### What is a reForged SRD?
 
-This material contains a **reMastered, reOrganized, and rePublished** markdown (.md) adaptation of the original AD&D CD-ROM ruleset and documentation to use for private, non-comercial purposes at your gametable. To download and use this material, you declare you own the physical works contained herein. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below.
+This material contains a **reForged, reOrganized, and rePublished** markdown (.md) adaptation of the original AD&D CD-ROM ruleset and documentation to use for private, non-comercial purposes at your gametable. To download and use this material, you declare you own the physical works contained herein. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below.
 
 [Download](../../archive/refs/heads/main.zip) this markdown in a .ZIP file.
 
