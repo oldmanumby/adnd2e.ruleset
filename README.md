@@ -7,7 +7,7 @@
 
 ---
 
-# Advanced Dungeons & Dragons 2nd Edition Complete Rules reForged!
+# Advanced Dungeons & Dragons 2E Complete Rules reForged!
 
 This material contains a **reForged, reOrganized, and rePublished** markdown (.md) adaptation of the original Advanced Dungeons & Dragons 2nd Edition CD-ROM ruleset and documentation to use for private, non-comercial purposes at your gametable. Specifically, for use with desktop PKM application that utilize wikilinks, such as [Obsidian](https://obsidian.md), [Docmost](https://docmost.com), and [iA Writer](https://ia.net/writer).
 
