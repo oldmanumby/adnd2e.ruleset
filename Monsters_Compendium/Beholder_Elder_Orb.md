@@ -1,0 +1,73 @@
+# Beholder - Elder Orb
+
+![](_assets/Beholder_Elder_Orb.jpg)
+
+| Statistic | **Beholder, Elder Orb** |
+| --- | --- |
+| **Activity Cycle:** | Any |
+| **Alignment:** | Lawful evil |
+| **Armor Class:** | 0/2/7 |
+| **Climate/Terrain:** | Any (remote areas) |
+| **Damage/Attack:** | 2-8 |
+| **Diet:** | Omnivore |
+| **Frequency:** | Very rare |
+| **Hit Dice:** | 70-75 hp |
+| **Intelligence:** | Godlike (22+) |
+| **Magic Resistance:** | 50%; see below |
+| **Morale:** | Fearless (19) |
+| **Movement:** | Fl 3 (B) |
+| **No. Appearing:** | 1 |
+| **No. of Attacks:** | 1 |
+| **Organization:** | Solitary |
+| **Size:** | M (4-6' diameter) |
+| **Special Attacks:** | Magic; see below |
+| **Special Defenses:** | Anti-magic ray |
+| **THAC0:** | 5 |
+| **Treasure:** | S,T,V (A,D,E,F) |
+| **XP Value:** | 18,000 |
+
+An Elder Orb is a very old [[Beholder_and_Beholder-kin_I|beholder]] whose powers have far outstripped its <q>common</q> brethren. Elder Orbs lack the larger number of eyes of the younger beholders but gain spellcasting abilities in compensation. Elder Orbs are the wisest, most cunning of tyrant-kind, They are expert strategists and ruthless, tireless foes, true master minds of their race.
+
+**Combat:** An Elder Orb typically loses the powers of 1-4 eyes in reaching its advanced age and powers. In old age, beholders can't regenerate lost eyes (purely physical damage still heals).
+
+Elder Orbs use magic, developing verbal-only spells of their own, or buying or stealing spells from beings who use verbal magics. They employ potions, scrolls, and spellbooks as wizards do; they also utilize magic items that need not be worn to function and are activated by command words.
+
+An Elder Orb can memorize one wizard spell for every 8 hit points it currently possesses. It can only hold one spell of each spell level in its mind at a time, and must study spells as mages do to retain its spellcasting abilities.
+
+Spells widely known among Elder Orbs are few. Each one guards its knowledge jealously, vying for supremacy over others. Common Orb-spells are known to include: *darkness, 15' radius*; *detect invisibility*; *dig*; *dispel magic*; *ESP*; *minor globe of invulnerability*; *power word, blind*; *protection from normal missiles*; *wall of force*, and *control death tyrant*. This later spell is equivalent in power to a fourth-level wizard spell, but it is unusable by human minds of less than 18 intelligence.
+
+This magic enables an Elder Orb to control any [[Beholder_and_Beholder-kin_I|Death Tyrants]] (undead beholders) within a range of 1 mile per current hit die of the Elder, a control as rigid as a charm person influences humans. An Elder Orb can simultaneously control one Death Tyrant per point of intelligence it currently possesses. If faced with more Tyrants than its control limit, a rare occurence indeed, it can drop control of one in one round and assume control of another in the next. The Tyrants involved will do nothing during those two rounds. Death Tyrants cannot rebel against this control which overrides and always supercedes their directives.
+
+Whenever an Elder Orb has access to Death Tyrants and expects danger, it will exercise a control spell. It is one spell Orbs always memorize; another is the 8th level *create death tyrant* spell developed by Elder Orbs, which yields a steady supply of servants.
+
+In battle, an Elder Orb always tries to have Death Tyrants do its fighting, using them as shields from attackers, and to maneuver foes into range of its own eyes. An Elder Orb tends to keep its spells as surprises to turn the tide of battle or to escape foes likely to defeat it.
+
+**Habitat/Society:** Elder Orbs are the wise councilors, decision-makers, and leaders of various beholder factions. They keep spacegoing tyrantkind organized and more or less obedient, as opposed to the paranoid, fiercely independent solitary beholders most often found on worlds. The pinnacle of tyrantkind, Elder Orbs work to maintain preeminent positions in their factions, and to advance their faction to supremacy over all beholders. Each Elder Orb is always looking for an edge - any and all possible edges. They view adventurers as potential sources of new information, magic, weaponry, and wealth to furnish those advantages. The Orbs are therefore more curious, tolerant, and farsighted than most beholders - though they may act no less confident and arrogant. This arrogance and haughtiness is simply a front to fool player characters, not the foolhardy overconfidence of many younger beholders.
+
+Every Orb sees itself as the father of a new, more capable breed of tyrantkind loyal to it. Using Death Tyrants as guardians and assistants, most Orbs arrange cautiously safeguarded meetings with lesser beholders to breed, and then raise the young to obey them. Beholders are hermaphroditic and produce magic-weak young. The unfortunate mate and any disloyal offspring are usually killed and turned into Death Tyrants, insuring a more reliable servant for the Elder Orb. Other Orbs continually try to destroy or subvert the loyalty of an Elder Orbs offspring. So far, no Elder Orb has succeeded in breeding loyalty into the race, or achieving dominion over more tyrantkind than it can threaten into obedience.
+
+**Ecology:** An Elder Orb needs less food than other beholders, and tolerates a wide variety of consumables. Its saving throw against all ingested poisons is a 3; for contact and insinuative poisons, an Orb needs to roll a 2. Spells that manage to slip past the *anti-magic rays* of the central eye encounter a high bodily magic resistance. This resistance is the result of magical experimentation and the development of the Elder Orb.s highly focused personal will used to counteract hostile magical effects. Elder Orbs also are immune to 1st through 4th level illusion spells due to their incredibly high intelligence scores.
+
+Every Elder Orb amasses all the magical knowledge it can during its lifetime, and so provides rich treasure for those who defeat one. Magic items and spells are cleverly hidden in caches, both near an Elder Orb's usual haunts, for emergency use, and far away for its protection.
+
+Sages believe Orb brains have great potential as a component of spells and item-crafting processes, but no specific uses are documented as yet.
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/Ruins_of_Undermountain_I.jpg)
+
+**Source Publication:** Ruins of Undermountain I (1994)
+**Campaign Setting:** Forgotten Realms
+**Author(s):** Ed Greenwood
+
+### Other Creatures Found in This Source Book
+   * [[Automaton_Scaladar|Automaton, Scaladar]]
+   * [[Beholder-kin_Death_Kiss|Beholder-kin, Death Kiss]]
+   * [[Darktentacles|Darktentacles]]
+   * [[Ibrandlin|Ibrandlin]]
+   * [[Sharn|Sharn]]
+   * [[Slithermorph|Slithermorph]]
+   * [[Snake_Flying|Snake, Flying]]
+   * [[Steel_Shadow|Steel Shadow]]
+   * [[Watchghost|Watchghost]]

@@ -1,0 +1,60 @@
+# Lamia - Sa'ir
+
+| Statistic | **Lamia, Sa'ir** |
+| --- | --- |
+| **Activity Cycle:** | Day |
+| **Alignment:** | Neutral |
+| **Armor Class:** | 5/6 |
+| **Climate/Terrain:** | Arid plains and hills |
+| **Damage/Attack:** | 1-3/1-3/1-3/1-3/1-6 (two claws, two horns, one bite) |
+| **Diet:** | Omnivore |
+| **Frequency:** | Very rare (common near lamias) |
+| **Hit Dice:** | 4+1 |
+| **Intelligence:** | Animal |
+| **Magic Resistance:** | Nil |
+| **Morale:** | Steady (11-12) |
+| **Movement:** | 12 |
+| **No. Appearing:** | 1-6 |
+| **No. of Attacks:** | 5 |
+| **Organization:** | Small groups |
+| **Size:** | M (4'-5' long) |
+| **Special Attacks:** | Surprises prey |
+| **Special Defenses:** | -2 to be surprised |
+| **THAC0:** | 16 |
+| **Treasure:** | Nil |
+| **XP Value:** | 420 |
+
+Prowling deserts, ruins and other desolate wastes, sa'ir are the offspring of common [[Lamia|lamias]], almost always found in the vicinity of their parents although they have no ties of affection to their sires
+
+A sa'ir has the hindquarters of a goat and the foreparts of a lion, including a male lion's mane for both sexes of sa'ir. Its head is leonine with the addition of a goat's horns and dangling beard.
+
+Sa'ir understand simple commands in the common tongue but are unlikely to obey if they issue from any but a lamia. Their own speech capabilities do not go beyond an odd, bleating roar.
+
+**Combat:** The sa'ir hunting style takes full advantage of their dual goat and lion natures. Sa'ir stalk prey in the guise of a grazing herbivore until they get within pouncing range of 20'. This tactic is very effective, and as a result the prey get a penalty of -1 on its surprise roll.
+
+When attacking, it strikes with its two lion paws and two goat horns and its bite. Its armor class is 6 overall, but the thick mane protecting its-neck and forequarters make those areas AC 5.
+
+**Habitat/Society:** Although not directly related to lions and goats, sa'ir behave in some ways like these creatures. They live in small groups structured like lion prides, but no sa'ir has ever been seen to give birth (they are believed to be sterile). They are territorial in nature, attempting to kill or chase away other predators that encroach on their hunting grounds.
+
+Sa'ir are omnivores, able to survive by eating plants as easily as animals. They do have a strong preference for meat, turning down fresh vegetation even for day-old carrion. A group of sa'ir would try to take down a large creature like an elephant if one were presented to them, but the areas they inhabit usually present smaller game. This means that they must forage daily for meat or vegetation, but if they make a big kill they will gorge, then bask in the sunlight for a few days while digesting their meal.
+
+**Ecology:** Few sa'ir are ever found far from the lamias that sired them. While they are de facto protectors of the lamia's lair, they cannot be trained to serve as watchdogs for the lamias. Thus, the population of sa'ir is as much controlled by the mating habits of the local lamias as it is by their own success.
+
+**Footnotes from Dragon Magazine**
+
+Lamias come in three varieties: lamia nobles, common lamias, and sa'ir. Solely because of the appearance of sa'ir and common lamias, there is conjecture that [[Chimera|chimerae]] and <a href="wemic">wemics</a> are also part of this family
+
+While no one knows how lamia nobles came to be (the curses of both demons and gods have been cited in explanations of the lamia's origins, but the truth could be something different from either), they are now produced only as the offspring of matings between other lamia nobles and humans. Common lamias are produced either as a result of noble-noble pairings or by human-common lamia matings. The purely animal sa'ir are only produced by the mating of common lamia pairs, as they are unable to propagate their own sub-race
+
+Lamias and sa'ir go into heat annually, a week-long period when the urge to reproduce outweighs almost all other desires and at which time they are the most fertile. The intelligent lamia types prefer to mate with humans in order to produce offspring of their own sort, but if none are available they will mate with their own kind. If they encounter a human outside of the summer mating season, the human's presence may cause them to come into heat out of season.
+
+Common lamias are hermaphrodites; any two of them can mate, with either of the pair being impregnated in the process. This also means that they can mate with both male and female humans. If a common lamia mates with a male human, the lamia can be impregnated, but if the lamia mates with a female human, the unfortunate woman bears the cubs. Noble lamias, having differentiated sexes, mate only with humans of the opposite sex, and they kill humans of the same sex without a second thought.
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/Dragon192.jpg)
+
+**Source Publication:** Dragon192 (1993)
+**Campaign Setting:** Dragon Magazine
+**Author(s):** Spike Y. Jones

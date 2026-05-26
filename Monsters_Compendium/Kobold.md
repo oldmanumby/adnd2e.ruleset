@@ -1,0 +1,386 @@
+# Kobold
+
+![](_assets/Kobold.jpg)
+
+| Statistic | **Kobold** | **Urd** |
+| --- | --- | --- |
+| **Activity Cycle:** | Night | Night |
+| **Alignment:** | Lawful evil | Neutral evil |
+| **Armor Class:** | 7 (10) | 8 |
+| **Climate/Terrain:** | Any land | Temperate to tropical/Hills and mountains |
+| **Damage/Attack:** | 1-4 or 1-6 (by weapon) | 1-3 or 1-4 (by weapon) |
+| **Diet:** | Omnivore | Omnivore |
+| **Frequency:** | Uncommon | Rare |
+| **Hit Dice:** | ½ (1-4 hit points) | 2-5 |
+| **Intelligence:** | Average (8-10) | Low (5-7) |
+| **Magic Resistance:** | Nil | Nil |
+| **Morale:** | Average (8-10) | Unsteady (7) |
+| **Movement:** | 6 | 6, Fl 15 (C) |
+| **No. Appearing:** | 5-20 (5d4) | 3-300 |
+| **No. of Attacks:** | 1 | 1 |
+| **Organization:** | Tribe | Gens |
+| **Size:** | S (3' tall) | S (3' tall) |
+| **Special Attacks:** | Nil | Rock bomb |
+| **Special Defenses:** | Nil | Nil |
+| **THAC0:** | 20 | 2 HD: 19 / 3-4 HD: 17 / 5 HD: 15 |
+| **Treasure:** | J,O (Q&times;5) | J (Q&times;5) |
+| **XP Value:** | 7 / Chiefs/guards: 15 | 2 HD: 35 / 3 HD: 65 / 4 HD: 120 / 5 HD: 175 |
+
+Kobolds are a cowardly, sadistic race of short humanoids that vigorously contest the human and demi-human races for living space and food. They especially dislike [[Gnome|gnomes]] and attack them on sight.
+
+Barely clearing 3 feet in height, kobolds have scaly hides that range from dark, rusty brown to a rusty black. They smell of damp dogs and stagnant water. Their eyes glow like a bright red spark and they have two small horns ranging from tan to white. Because of the kobolds' fondness for wearing raggedy garb of red and orange, their non-prehensile rat-like tails, and their language (which sounds like small dogs yapping), these fell creatures are often not taken seriously. This is often a fatal mistake, for what they lack in size and strength they make up in ferocity and tenacity.
+
+Kobolds speak their own language; some (75%) speak [[Orc|orc]] and [[Goblin|goblin]].
+
+**Combat:** The kobold approach to combat uses overwhelming odds or trickery. Kobolds will attack gnomes on sight, but will think twice about attacking humans, [[Elf|elves]], or [[Dwarf|dwarves]] unless the kobolds outnumber them by at least two to one. They often hurl javelins and spears, preferring not to close until they see that their enemies have been weakened.
+
+Kobolds attack in overwhelming waves. Should the kobolds be reduced to only a three to two ratio in their favor, they must make a morale check. Kobolds are wary of spellcasters and will aim for them when possible.
+
+This diminutive race also enjoys setting up concealed pits with spikes, crossbows, and other mechanical traps. They usually have view ports and murder holes near these traps so that they can pour flaming oil, missile weapons, or drop poisonous insects on their victims.
+
+Kobold war bands are armed with spiked clubs, axes, javelins, short swords and spears. Their shields are seldom metal, but are normally wood or wicker. Chiefs and guards tend to have the best weapons available.
+
+Kobolds have 60-foot infravision but do not see well in bright sunlight, suffering a -1 on their attack rolls.
+
+**Habitat/Society:** Kobolds live in dark, damp places underground and in overgrown forests. They can be found in almost any climate. As kobolds are good miners, any area with potential for mining is fair game for settlement.
+
+The average kobold tribe has 40-400 (4d10x10) adult males. For every 40 kobolds in a band there will be one leader and two bodyguards (AC 6; HD 1-1; hp 4 each; damage 1-6). In a lair there will be 5-20 (5d4) bodyguards, females equal to 50% of the males, young equal to 10% of the males and 30-300 (3d10x10) eggs. There will also be a chief and 2-8 guards (AC 5; HD 1+1; hp 7 each; damage 1-8). Further, there is a 65% chance there will be guard animals: (70%) 2-5 [[Boar|wild boars]] (AC 7; HD 3+3; damage 3d4 gore) or (30%) 1-4 [[Weasel|giant weasels]] (AC 6; HD 3+3; damage 2d6 bite and blood drain). There may be one or more shamans.
+
+Their society is tribal but can be further broken up into war bands based on specific clans. As many as 10 families can be part of a clan, and each clan usually is responsible for controlling the area in a 10 mile radius from the lair. Kobolds recover treasure from the bodies of their victims and often carry them back to their lair as food. In some instances, kobolds will not kill their victims, but will sell them as slaves.
+
+Kobolds are distrustful of strangers. They hate [[Brownie|brownies]], [[Sprite|pixies]], [[Sprite|sprites]] and gnomes. Gnomes are never eaten or taken prisoner.
+
+**Ecology:** Perhaps kobolds are so cruel because they are easy prey for larger humanoids and hungry monsters. They have many enemies, and even the dwarves have had to admit that the numerous kobold-goblin wars have kept the number of goblins down to a safe level.
+
+Kobolds can live 135 years.
+
+**Urd**
+
+  [[Urd|Urds]] are distant relatives of kobolds. Three feet tall, with short ivory horns, their bodies are frail and covered with mottled yellow to brick red scales. Their leathery, batlike wings span 8 feet.
+
+Urds have 60-foot infravision and prefer to hunt at night, dropping jagged stones (2-3 pounds each) from the air. Unsuspecting victims are AC 10 for the attack roll. Actively dodging opponents are considered AC 2 before modifications to Dexterity. Rocks cause 2d4 points of damage. Some urds (25%) carry light sprears (1d4 damage).
+
+A band of 20 urds is accompanied by a subchieftain (AC 7, 7 hp). Urd flocks of 100 or more include the chieftain (10 hp, 50% have magical leather armor). Urd lairs contain 1d6 shamans able to speak with [[Bat|bats]] as per *speak with animals*.
+
+Urd life spans can exceed 100 years, but they rarely live past 50.
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/Monstrous_Manual.jpg)
+
+**Source Publication:** Monstrous Manual (1995)
+**Campaign Setting:** Advanced Dungeons & Dragons 2nd Edition
+**Author(s):** Tim Beach
+
+### Other Creatures Found in This Source Book
+   * [[Aarakocra|Aarakocra]]
+   * [[Aboleth|Aboleth]]
+   * [[Ankheg|Ankheg]]
+   * [[Arcane|Arcane]]
+   * [[Argos|Argos]]
+   * [[Aurumvorax|Aurumvorax]]
+   * [[Baatezu_Lesser_Abishai|Baatezu, Lesser, Abishai]]
+   * [[Baatezu_General_Information|Baatezu, General Information]]
+   * [[Baatezu_Greater_Pit_Fiend|Baatezu, Greater, Pit Fiend]]
+   * [[Banshee|Banshee]]
+   * [[Basilisk|Basilisk]]
+   * [[Bat|Bat]]
+   * [[Bear|Bear]]
+   * [[Beetle_Giant|Beetle, Giant]]
+   * [[Behir|Behir]]
+   * [[Beholder_and_Beholder-kin_I|Beholder and Beholder-kin I]]
+   * [[Beholder_and_Beholder-kin_II|Beholder and Beholder-kin II]]
+   * [[Bird|Bird]]
+   * [[Brain_Mole|Brain Mole]]
+   * [[Broken_One|Broken One]]
+   * [[Brownie|Brownie]]
+   * [[Bugbear|Bugbear]]
+   * [[Bulette|Bulette]]
+   * [[Bullywug|Bullywug]]
+   * [[Carrion_Crawler|Carrion Crawler]]
+   * [[Cat_Great|Cat, Great]]
+   * [[Catoblepas|Catoblepas]]
+   * [[Cat_Small|Cat, Small]]
+   * [[Cave_Fisher|Cave Fisher]]
+   * [[Centaur|Centaur]]
+   * [[Centipede|Centipede]]
+   * [[Chimera|Chimera]]
+   * [[Cloaker|Cloaker]]
+   * [[Cockatrice|Cockatrice]]
+   * [[Couatl|Couatl]]
+   * [[Crabman|Crabman]]
+   * [[Crawling_Claw|Crawling Claw]]
+   * [[Crocodile|Crocodile]]
+   * [[Crustacean_Giant|Crustacean, Giant]]
+   * [[Crypt_Thing|Crypt Thing]]
+   * [[Death_Knight|Death Knight]]
+   * [[Deepspawn|Deepspawn]]
+   * [[Dinosaur_I|Dinosaur I]]
+   * [[Displacer_Beast|Displacer Beast]]
+   * [[Dog|Dog]]
+   * [[Dog_Moon|Dog, Moon]]
+   * [[Dolphin|Dolphin]]
+   * [[Doppelganger|Doppelganger]]
+   * [[Dracolich|Dracolich]]
+   * [[Dragon_Brown|Dragon, Brown]]
+   * [[Dragon_Chromatic_Black|Dragon, Chromatic, Black]]
+   * [[Dragon_Chromatic_Blue|Dragon, Chromatic, Blue]]
+   * [[Dragon_Chromatic_Green|Dragon, Chromatic, Green]]
+   * [[Dragon_Cloud|Dragon, Cloud]]
+   * [[Dragon_Chromatic_Red|Dragon, Chromatic, Red]]
+   * [[Dragon_Chromatic_White|Dragon, Chromatic, White]]
+   * [[Dragon_Deep|Dragon, Deep]]
+   * [[Dragon_Gem_Amethyst|Dragon, Gem, Amethyst]]
+   * [[Dragon_Gem_Crystal|Dragon, Gem, Crystal]]
+   * [[Dragon_Gem_Emerald|Dragon, Gem, Emerald]]
+   * [[Dragon_Gem_Sapphire|Dragon, Gem, Sapphire]]
+   * [[Dragon_Gem_Topaz|Dragon, Gem, Topaz]]
+   * [[Dragon_Metallic_Brass|Dragon, Metallic, Brass]]
+   * [[Dragon_Metallic_Bronze|Dragon, Metallic, Bronze]]
+   * [[Dragon_Metallic_Copper|Dragon, Metallic, Copper]]
+   * [[Dragon_Mercury|Dragon, Mercury]]
+   * [[Dragon_Metallic_Gold|Dragon, Metallic, Gold]]
+   * [[Dragon_Mist|Dragon, Mist]]
+   * [[Dragon_Metallic_Silver|Dragon, Metallic, Silver]]
+   * [[Dragon_General_Information|Dragon, General Information]]
+   * [[Dragon_Shadow|Dragon, Shadow]]
+   * [[Dragon_Steel|Dragon, Steel]]
+   * [[Dragon_Yellow|Dragon, Yellow]]
+   * [[Dragonne|Dragonne]]
+   * [[Dragon_Turtle|Dragon Turtle]]
+   * [[Dragonet_Faerie_Dragon|Dragonet, Faerie Dragon]]
+   * [[Dragonet_Fire_Drake|Dragonet, Fire Drake]]
+   * [[Dragonet_Pseudodragon|Dragonet, Pseudodragon]]
+   * [[Dryad|Dryad]]
+   * [[Dwarf_Derro|Dwarf, Derro]]
+   * [[Dwarf|Dwarf]]
+   * [[Elemental_Athas_General_Information|Elemental (Athas), General Information]]
+   * [[Elemental_Air_Kin|Elemental, Air Kin]]
+   * [[Elemental_Earth_Kin|Elemental, Earth Kin]]
+   * [[Elemental_Fire_Kin|Elemental, Fire Kin]]
+   * [[Elemental_Water_Kin|Elemental, Water Kin]]
+   * [[Elemental_of_Chaos_Air_Earth|Elemental of Chaos, Air/Earth]]
+   * [[Elemental_of_Chaos_Fire_Water|Elemental of Chaos, Fire/Water]]
+   * [[Elemental_Composite|Elemental, Composite]]
+   * [[Elemental_Air_Earth|Elemental, Air/Earth]]
+   * [[Elemental_Fire_Water|Elemental, Fire/Water]]
+   * [[Elemental_General_Information|Elemental, General Information]]
+   * [[Elephant|Elephant]]
+   * [[Elf|Elf]]
+   * [[Elf_Aquatic|Elf, Aquatic]]
+   * [[Elf_Drow|Elf, Drow]]
+   * [[Ettercap|Ettercap]]
+   * [[Eyewing|Eyewing]]
+   * [[Feyr|Feyr]]
+   * [[Fish|Fish]]
+   * [[Frog|Frog]]
+   * [[Fungus|Fungus]]
+   * [[Galeb_Duhr|Galeb Duhr]]
+   * [[Gargantua|Gargantua]]
+   * [[Gargoyle_I|Gargoyle I]]
+   * [[Genie|Genie]]
+   * [[Ghost|Ghost]]
+   * [[Ghoul|Ghoul]]
+   * [[Giant_Cloud|Giant, Cloud]]
+   * [[Giant_Cyclops|Giant, Cyclops]]
+   * [[Giant_Desert|Giant, Desert]]
+   * [[Giant_Ettin|Giant, Ettin]]
+   * [[Giant_Firbolg|Giant, Firbolg]]
+   * [[Giant_Fire|Giant, Fire]]
+   * [[Giant_Fog|Giant, Fog]]
+   * [[Giant_Fomorian|Giant, Fomorian]]
+   * [[Giant_Frost|Giant, Frost]]
+   * [[Giant_Hill|Giant, Hill]]
+   * [[Giant_Jungle|Giant, Jungle]]
+   * [[Giant_Mountain|Giant, Mountain]]
+   * [[Giant_Reef|Giant, Reef]]
+   * [[Giant_Stone|Giant, Stone]]
+   * [[Giant_Storm|Giant, Storm]]
+   * [[Giant_Verbeeg|Giant, Verbeeg]]
+   * [[Giant_Wood|Giant, Wood]]
+   * [[Gibberling|Gibberling]]
+   * [[Giff|Giff]]
+   * [[Gith|Gith]]
+   * [[Gith_Pirate_of|Gith, Pirate of]]
+   * [[Githyanki|Githyanki]]
+   * [[Githzerai|Githzerai]]
+   * [[Gloomwing|Gloomwing]]
+   * [[Gnoll|Gnoll]]
+   * [[Gnome|Gnome]]
+   * [[Gnome_Spriggan|Gnome, Spriggan]]
+   * [[Goblin|Goblin]]
+   * [[Golem_General_Information|Golem, General Information]]
+   * [[Golem_I_Greater_Golem|Golem I (Greater Golem)]]
+   * [[Golem_II_Lesser_Golem|Golem II (Lesser Golem)]]
+   * [[Golem_III|Golem III]]
+   * [[Golem_IV|Golem IV]]
+   * [[Golem_V|Golem V]]
+   * [[Golem_VI_Stone_Variants|Golem VI (Stone Variants)]]
+   * [[Gorgon|Gorgon]]
+   * [[Grell_Colonial|Grell, Colonial]]
+   * [[Gremlin_Jermlaine|Gremlin, Jermlaine]]
+   * [[Gremlin|Gremlin]]
+   * [[Griffon|Griffon]]
+   * [[Grimlock|Grimlock]]
+   * [[Grippli|Grippli]]
+   * [[Hag|Hag]]
+   * [[Halfling|Halfling]]
+   * [[Harpy|Harpy]]
+   * [[Hatori|Hatori]]
+   * [[Haunt|Haunt]]
+   * [[Hell_Hound|Hell Hound]]
+   * [[Heucuva|Heucuva]]
+   * [[Hippocampus|Hippocampus]]
+   * [[Hippogriff|Hippogriff]]
+   * [[Hobgoblin|Hobgoblin]]
+   * [[Homunculus|Homunculus]]
+   * [[Hook_Horror|Hook Horror]]
+   * [[Horse|Horse]]
+   * [[Human|Human]]
+   * [[Hydra|Hydra]]
+   * [[Imp|Imp]]
+   * [[Insect_Giant|Insect, Giant]]
+   * [[Insect_Swarm|Insect Swarm]]
+   * [[Intellect_Devourer|Intellect Devourer]]
+   * [[Invisible_Stalker|Invisible Stalker]]
+   * [[Ixitxachitl|Ixitxachitl]]
+   * [[Jackalwere|Jackalwere]]
+   * [[Kenku|Kenku]]
+   * [[Ki-rin|Ki-rin]]
+   * [[Kirre|Kirre]]
+   * [[Kuo-Toa|Kuo-Toa]]
+   * [[Lamia|Lamia]]
+   * [[Lammasu|Lammasu]]
+   * [[Leech|Leech]]
+   * [[Leprechaun|Leprechaun]]
+   * [[Leucrotta|Leucrotta]]
+   * [[Lich|Lich]]
+   * [[Living_Wall|Living Wall]]
+   * [[Lizard|Lizard]]
+   * [[Lizard_Man|Lizard Man]]
+   * [[Locathah|Locathah]]
+   * [[Lurker|Lurker]]
+   * [[Lycanthrope_General_Information|Lycanthrope, General Information]]
+   * [[Lycanthrope_Seawolf|Lycanthrope, Seawolf]]
+   * [[Lycanthrope_Werebear|Lycanthrope, Werebear]]
+   * [[Lycanthrope_Wereboar|Lycanthrope, Wereboar]]
+   * [[Lycanthrope_Werebat|Lycanthrope, Werebat]]
+   * [[Lycanthrope_Werefox|Lycanthrope, Werefox]]
+   * [[Lycanthrope_Wererat|Lycanthrope, Wererat]]
+   * [[Lycanthrope_Wereraven|Lycanthrope, Wereraven]]
+   * [[Lycanthrope_Weretiger|Lycanthrope, Weretiger]]
+   * [[Lycanthrope_Werewolf|Lycanthrope, Werewolf]]
+   * [[Mammal|Mammal]]
+   * [[Mammal_Giant|Mammal, Giant]]
+   * [[Mammal_Herd_I|Mammal, Herd I]]
+   * [[Mammal_Small|Mammal, Small]]
+   * [[Manscorpion|Manscorpion]]
+   * [[Manticore|Manticore]]
+   * [[Medusa_Maedar|Medusa, Maedar]]
+   * [[Medusa|Medusa]]
+   * [[Mephit_General_Information|Mephit, General Information]]
+   * [[Merman|Merman]]
+   * [[Mimic|Mimic]]
+   * [[Mind_Flayer|Mind Flayer]]
+   * [[Minotaur|Minotaur]]
+   * [[Mist_Crimson_Death|Mist, Crimson Death]]
+   * [[Mist_Vampiric|Mist, Vampiric]]
+   * [[Mold_I|Mold I]]
+   * [[Moldman|Moldman]]
+   * [[Mongrelman|Mongrelman]]
+   * [[Morkoth|Morkoth]]
+   * [[Muckdweller|Muckdweller]]
+   * [[Mudman|Mudman]]
+   * [[Mummy_Greater|Mummy, Greater]]
+   * [[Mummy|Mummy]]
+   * [[Myconid|Myconid]]
+   * [[Naga|Naga]]
+   * [[Naga_Dark|Naga, Dark]]
+   * [[Neogi|Neogi]]
+   * [[Nightmare|Nightmare]]
+   * [[Nymph|Nymph]]
+   * [[Octopus_Giant|Octopus, Giant]]
+   * [[Ogre|Ogre]]
+   * [[Ogre_Half-|Ogre, Half-]]
+   * [[Ooze_Slime_Jelly_I|Ooze/Slime/Jelly I]]
+   * [[Ooze_Slime_Jelly_II|Ooze/Slime/Jelly II]]
+   * [[Ooze_Slime_Jelly_Slithering_Tracker|Ooze/Slime/Jelly, Slithering Tracker]]
+   * [[Orc|Orc]]
+   * [[Otyugh|Otyugh]]
+   * [[Owlbear_I|Owlbear I]]
+   * [[Pegasus|Pegasus]]
+   * [[Peryton|Peryton]]
+   * [[Phantom|Phantom]]
+   * [[Phoenix|Phoenix]]
+   * [[Piercer|Piercer]]
+   * [[Plant_Dangerous_I|Plant, Dangerous I]]
+   * [[Plant_Intelligent|Plant, Intelligent]]
+   * [[Poltergeist|Poltergeist]]
+   * [[Pudding_Deadly|Pudding, Deadly]]
+   * [[Quaggoth|Quaggoth]]
+   * [[Rakshasa|Rakshasa]]
+   * [[Rat|Rat]]
+   * [[Rat_Osquip|Rat, Osquip]]
+   * [[Remorhaz|Remorhaz]]
+   * [[Revenant|Revenant]]
+   * [[Roc|Roc]]
+   * [[Roper|Roper]]
+   * [[Rust_Monster|Rust Monster]]
+   * [[Sahuagin|Sahuagin]]
+   * [[Satyr|Satyr]]
+   * [[Scorpion|Scorpion]]
+   * [[Sea_Lion|Sea Lion]]
+   * [[Selkie|Selkie]]
+   * [[Shadow|Shadow]]
+   * [[Shedu|Shedu]]
+   * [[Sirine|Sirine]]
+   * [[Skeleton|Skeleton]]
+   * [[Skeleton_Giant|Skeleton, Giant]]
+   * [[Skeleton_Warrior|Skeleton, Warrior]]
+   * [[Slaad|Slaad]]
+   * [[Slug_Giant|Slug, Giant]]
+   * [[Snake|Snake]]
+   * [[Snake_Winged|Snake, Winged]]
+   * [[Spectre|Spectre]]
+   * [[Sphinx|Sphinx]]
+   * [[Spider|Spider]]
+   * [[Sprite|Sprite]]
+   * [[Squid_Giant|Squid, Giant]]
+   * [[Stirge|Stirge]]
+   * [[Su-Monster|Su-Monster]]
+   * [[Swanmay|Swanmay]]
+   * [[Tabaxi|Tabaxi]]
+   * [[Tako|Tako]]
+   * [[Tanar'ri_True_Balor|Tanar'ri, True, Balor]]
+   * [[Tanar'ri_True_Marilith|Tanar'ri, True, Marilith]]
+   * [[Tarrasque|Tarrasque]]
+   * [[Tasloi|Tasloi]]
+   * [[Thought_Eater|Thought Eater]]
+   * [[Thri-kreen|Thri-kreen]]
+   * [[Titan|Titan]]
+   * [[Toad_Giant|Toad, Giant]]
+   * [[Treant|Treant]]
+   * [[Triton|Triton]]
+   * [[Troglodyte|Troglodyte]]
+   * [[Troll|Troll]]
+   * [[Umber_Hulk|Umber Hulk]]
+   * [[Unicorn|Unicorn]]
+   * [[Urchin|Urchin]]
+   * [[Vampire|Vampire]]
+   * [[Wemic|Wemic]]
+   * [[Whale|Whale]]
+   * [[Wight|Wight]]
+   * [[Will_O'Wisp|Will O'Wisp]]
+   * [[Wolf|Wolf]]
+   * [[Wolfwere|Wolfwere]]
+   * [[Worm|Worm]]
+   * [[Wraith|Wraith]]
+   * [[Wyvern|Wyvern]]
+   * [[Xorn|Xorn]]
+   * [[Yeti|Yeti]]
+   * [[Yuan-ti_Histachii|Yuan-ti, Histachii]]
+   * [[Yuan-ti|Yuan-ti]]
+   * [[Yugoloth_Guardian|Yugoloth, Guardian]]
+   * [[Zaratan|Zaratan]]
+   * [[Zombie|Zombie]]

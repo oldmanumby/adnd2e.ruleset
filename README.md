@@ -3,13 +3,19 @@
 
 ---
 
+>**SPECIAL NOTE:** This ruleset library is under development and missing many components! When this warning disappears, the ruleset will be complete. Currently, the monster section is more then complete!
+
+---
+
 # Advanced Dungeons & Dragons 2nd Edition Complete Rules reForged!
 
-For additional information and other complete reForged rulesets, please visit the [Rules reForged Hub](https://rules.oldmanumby.com). This is not an SRD, but rather a complete markdown ruleset.
+This material contains a **reForged, reOrganized, and rePublished** markdown (.md) adaptation of the original Advanced Dungeons & Dragons 2nd Edition CD-ROM ruleset and documentation to use for private, non-comercial purposes at your gametable. Specifically, for use with desktop PKM application that utilize wikilinks, such as [Obsidian](https://obsidian.md), [Docmost](https://docmost.com), and [iA Writer](https://ia.net/writer).
 
-### What is a reForged SRD?
+To download and use this material, you declare you own the physical works contained herein. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below. This is not an SRD, but rather the complete markdown ruleset.
 
-This material contains a **reForged, reOrganized, and rePublished** markdown (.md) adaptation of the original AD&D CD-ROM ruleset and documentation to use for private, non-comercial purposes at your gametable. To download and use this material, you declare you own the physical works contained herein. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below.
+> Credit: Thanks to [Decheine](https://github.com/decheine) for the great work on his [Complete Monstrous Compendium](https://github.com/decheine/complete-compendium).
+
+For additional information and other complete reForged rulesets, please visit the [Rules reForged Hub](https://rules.oldmanumby.com).
 
 [Download](../../archive/refs/heads/main.zip) this markdown in a .ZIP file.
 

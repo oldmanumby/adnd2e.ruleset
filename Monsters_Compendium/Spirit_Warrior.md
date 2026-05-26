@@ -1,0 +1,148 @@
+# Spirit Warrior
+
+![](_assets/Spirit_Warrior.jpg)
+
+| Statistic | **Spirit Warrior** | **Zwarth** |
+| --- | --- | --- |
+| **Activity Cycle:** | N/A | N/A |
+| **Alignment:** | Neutral good | Neutral |
+| **Armor Class:** | -5 | -8 |
+| **Climate/Terrain:** | Any | Any |
+| **Damage/Attack:** | 3d6/3d6 or by weapon type | 3d6/3d6 or by weapon type |
+| **Diet:** | N/A | N/A |
+| **Frequency:** | Very rare | Very rare |
+| **Hit Dice:** | Master's +10 | Master's +20 |
+| **Intelligence:** | Non- (0) | Non- (0) |
+| **Magic Resistance:** | Nil | Special |
+| **Morale:** | Varies | Varies |
+| **Movement:** | 15, Fl 24 | 18, Fl 24, SR 3 |
+| **No. Appearing:** | 1-200 | 1-5 |
+| **No. of Attacks:** | Varies | Equals master's attacks |
+| **Organization:** | N/A | N/A |
+| **Size:** | H (20') | G (30'+) |
+| **Special Attacks:** | See below | See below |
+| **Special Defenses:** | Nil | Nil |
+| **THAC0:** | Varies | Varies |
+| **Treasure:** | Nil | Nil |
+| **XP Value:** | 6,000 | 7,000 |
+
+The spirit warrior is an enormous undead insect, the primary long-range weapon of [[Elf|elven]] crack troops during the Unhuman Wars. All Spirit Warriors went into time storage after theend of the Unhuman Wars, and they occasionally emerge in modern times.
+
+A fighter operates the spirit warrior from a cavity inside the chest. This is the spirit warrior's master (also called a spirit warrior, as the two become essentially one).
+
+Spirit warriors are of three types: carnivores, herbivores, and nektars. Carnivores descend from the [[Insect_Giant|praying mantis]]. They have its slashing, grasping forelimbs and biting mandibles. Their wings bear eye-spots that they reflexively display before combat.
+
+Herbivores are based on the katydid. Though they are thin and spindly in build, their powerful legs carry them 600' forward or backward, and up to 400' vertically. Their wings and limbs are leaf-shaped.
+
+Nektars defend from an insect similar to both a butterfly and a [[Hornet_Giant|wasp]]. Nektar spirit warriors are brightly colored, with iridescent thoraxes and alternating bands of color on their abdomens. Their wings are large and colorful, with various patterns.
+
+All breeds of spirit warrior have at least two clawed hands, feet that adhere to any surface, and functional wings that enable them to make gliding leaps of 100-600' on planets. They also wield various melee weapons scaled to their size.
+
+**Combat:** A spirit warrior's number of attacks depends on its master's ability - for instance, a 1st-lcvel fighter attacks once per round, so his spirit warrior can only attack once per round. Conversely, a 12th-levcl fighter's spirit warrior can attack three times every two rounds. Most spirit warriors attack with a giant longsword, doing triple normal damage (3d8). Some warriors use special bows with a range of 500 yards. The arrows do triple normal damage (3d6); there is a 5% chance that one arrow is an *arrow of slaying*. All spirit warriors can deliver two claw attacks for 3d6 per claw, in lieu of the weapon strike.
+
+The various species also have different attacked as follows: Carnivores bite for 5d6 damage. The forelimbs of the carnivore spirit warrior can grapple an opponent on a successful attack roll, inflicting 1d6 crushing damage each round thereafter. A successful grapple immobilizes a smaller opponent, and later attacks hit automatically. A grappled opponent gets a Strength ability check each round to break free.
+
+Herbivores can change color like a chameleon, becoming almost invisible to an opponent (surprise on 1-4 on 1d6). Their screech attack does 2d10 sonic damage per round. The herbivore uses its leaping ability to jump over its opponent, somersaulting in midair to land and strike from behind (+2 to hit when the master makes a successful Dexterity check).
+
+Nektars have a smooth wasp-like stinger. In life, a gland pumps a poison through the stinger, inflicting a painful wound. The spirit warrior has a hollow stinger outfitted with a small greek fire projector with 1d3 shots. The stinger can fire every other round for 3d6 damage at a range of 50 yards.
+
+The spirit warrior body "remembers" its previous existence as a living insect and confers its sense of absolute balance to the master, making disorientation impossible.
+
+The bonding between the spirit warrior and its master means that damage to the spirit warrior is relayed to the master. In the event of a critical hit, the master must save vs. death. Failure means both spirit warrior and master die from shock.
+
+**Habitat/Society:** Spirit warriors are weapons from the Unhuman Wars. There are three ways to acquire one: find one that has been abandoned, wrest one from its owner in combat, or grow one from an egg and perform the appropriate spells. Since the Wars ranged over a great area, the chance of finding an abandoned warrior is small. Also, those still piloted have most likely been around since the time of the Wars, so wresting one from its master in combat is also unlikely. This leaves the method of growing one from an egg, as follows:
+
+The would-be spirit warrior receives an egg. The fighter must incubate the pinhead-sized egg in a warm and secure environment, preferably next to the fighter's body. When the egg hatches, the warrior must nurture and protect the fragile larva from six months to a year, until it is mature. This nurturing involves close emotional contact with the insect (stroking, petting, cuddling, thinking pleasant thoughts) to develop a strong emotional bond as one would with a pet or familiar. After a year the insect is mature, and the spells of modification begin; however, for the strongest bond, this final process is delayed until after the insect has died of old age. If the spells are performed on a living insect, it dies during the ceremony.
+
+The insect becomes a spirit warrior via spells that enlarge, animate, strengthen, and physically modify the insect's remains. These spells also link the minds of warrior and insect in an unbreakable bond, unaffected by magic, disease, physical attack, or mental control. The final stage of the process installs a special minor helm in the hollow chest cavity of the insect warrior.
+
+There is a base 5% chance that the discoverer of an abandoned warrior can forge a new bond with it. Alignment affects this chance, for warriors created for the Unhuman Wars were of either good or neutral alignment (law and chaos were of no consequence). If the discoverer's alignment differs from the warrior's, the bonding chance decreases 1% for each degree of difference - for example, if the spirit warrior is good in alignment and the finder is neutral, the chance of bonding drops to 4%; if the finder is evil, the chance drops to 3%.
+
+If the 5% chance fails, the effects on the discoverer who attempted the bond range from devastating to deadly. Roll percentile dice and consult this table.
+
+| Die Roll | Effect |
+| --- | --- |
+| 01-25 | unconscious for 1d3 days |
+| 26-85 | stroke (cerebral hemorrhage); victim incapacitated. DM's choice of specific effects: loss of motor skills, speech impairment, etc. |
+| 86-00 | Death due to massive stroke and psychic trauma. |
+
+The reason for such severe results is the bonding process itself. The process effects physical changes on the would-be spirit warrior's brain and nervous system. When the bonding takes place between an insect and its keeper, the links are easily forged due to the years of intimate contact. For a stranger to attempt such a bonding is dangerous indeed.
+
+**Ecology:** This is only important when the spirit warrior larva is being nurtured. Nektars and herbivores feed on one or two specific types of flowering plants. Growing these flowers requires a hothouse. An insect can eat up to 30 times its body weight in a day.
+
+Carnivores also develop preferences and are more insistent. The master may grow anxious when the insect is hungry, resulting in mood swings and irrational behavior (for instance, drastic reductions in the local [[Hamster_Giant_Space|space hamster]] population) in both master and insect.
+
+During the Unhuman Wars, elvish mages created the warriors as armored, super-strong weapons to counter orcish monsters being released on various worlds. At first their years of research only worked up to a point: the giant undead insects ran amok, killing researchers and damaging Armada Noble itself.
+
+An assistant, Rowan Starblade by name, discovered that the ceremonies failed because the researchers and the insects shared no emotional bond. When one of Rowan's "pet" research insects rampaged after the ill-fated ceremony, she threw herself in front of the beast, begging it to stop. To her surprise, the giant insect obeyed her command!
+
+Further experimentation with Rowan's pet [[Zombie|zombie]] revealed that when she welded a modified minor helm in the insect's hollow chest cavity with gold and platinum wire, she could sit in the helm and pilot the insect with her speed and agility, and with the insect's strength.
+
+**Zwarth**
+
+  This large version of the spirit warrior, piloted by crews of 5-8 people, has as many attacks per round as it has crew members. It is capable of true spelljamming flight and can use many weapons. The zwarth has the magical power of *spell projection*. A spellcaster in a zwarth can amplify attack spells, doing a spell's dice of damage in hull points. For instance, if an ordinary *magic missile* does 1d4+1 points of damage, then the same *magic missile*, cast through the zwarth's hands, would do 1d4+1 *hull points* of damage!
+
+Zwarth construction resembles that of a spirit warrior. Growth and bonding process are the same. (Yes, an entire party must undergo this process!)
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/MC9_Spelljammer_Appendix_II.jpg)
+
+**Source Publication:** MC9 Spelljammer Appendix II (1991)
+**Campaign Setting:** Planescape
+**Author(s):** Scott Davis, Newton Ewell, John Terra
+
+### Other Creatures Found in This Source Book
+   * [[Alchemy_Plant|Alchemy Plant]]
+   * [[Allura|Allura]]
+   * [[Aperusa|Aperusa]]
+   * [[Autognome|Autognome]]
+   * [[Bionoid|Bionoid]]
+   * [[Bloodsac|Bloodsac]]
+   * [[Buzzjewel|Buzzjewel]]
+   * [[Constellate|Constellate]]
+   * [[Contemplator|Contemplator]]
+   * [[Dohwar|Dohwar]]
+   * [[Dragon_Moon|Dragon, Moon]]
+   * [[Dragon_Stellar|Dragon, Stellar]]
+   * [[Dragon_Sun|Dragon, Sun]]
+   * [[Dreamslayer|Dreamslayer]]
+   * [[Dweomerborn|Dweomerborn]]
+   * [[Fal|Fal]]
+   * [[Feesu|Feesu]]
+   * [[Fire_Bat|Fire Bat]]
+   * [[Firebird|Firebird]]
+   * [[Firelich|Firelich]]
+   * [[Flowfiend|Flowfiend]]
+   * [[Gadabout|Gadabout]]
+   * [[Gammaroid|Gammaroid]]
+   * [[Gonn|Gonn]]
+   * [[Gossamer|Gossamer]]
+   * [[Grav|Grav]]
+   * [[Great_Dreamer|Great Dreamer]]
+   * [[Greatswan|Greatswan]]
+   * [[Grell_Colonial|Grell, Colonial]]
+   * [[Gullion|Gullion]]
+   * [[Insectare|Insectare]]
+   * [[Lhee|Lhee]]
+   * [[Mercurial_Slime|Mercurial Slime]]
+   * [[Meteorspawn|Meteorspawn]]
+   * [[Monitor|Monitor]]
+   * [[Owl_Space|Owl, Space]]
+   * [[Pristatic|Pristatic]]
+   * [[Scro|Scro]]
+   * [[Selkie_Star|Selkie, Star]]
+   * [[Silatic|Silatic]]
+   * [[Skullbird|Skullbird]]
+   * [[Sleek|Sleek]]
+   * [[Sluk|Sluk]]
+   * [[Space_Swine|Space Swine]]
+   * [[Sphinx_Astro-|Sphinx, Astro-]]
+   * [[Starfly_Plant|Starfly Plant]]
+   * [[Stargazer|Stargazer]]
+   * [[Undead_Stellar|Undead, Stellar]]
+   * [[Witchlight_Marauder|Witchlight Marauder]]
+   * [[Xixchil|Xixchil]]
+   * [[Yitsan|Yitsan]]
+   * [[Zurchin|Zurchin]]

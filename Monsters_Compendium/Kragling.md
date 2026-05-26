@@ -1,0 +1,86 @@
+# Kragling
+
+![](_assets/Kragling.jpg)
+
+| Statistic | **Greater** | **Lesser** |
+| --- | --- | --- |
+| **Activity Cycle:** | Any | Any |
+| **Alignment:** | Chaotic evil | Chaotic evil |
+| **Armor Class:** | 8 | 6 |
+| **Climate/Terrain:** | Special | Special |
+| **Damage/Attack:** | 1-6/1-6/2-20 | 1-4/1-4/1-10 |
+| **Diet:** | None | None |
+| **Frequency:** | Very rare | Very rare |
+| **Hit Dice:** | 5 | 3 |
+| **Intelligence:** | Low to Average (5-10) | Low to Average (5-10) |
+| **Magic Resistance:** | Nil | Nil |
+| **Morale:** | Steady (11-12) | Steady (11-12) |
+| **Movement:** | 12 | 12 |
+| **No. Appearing:** | 1-12 | 1-12 |
+| **No. of Attacks:** | 3 | 3 |
+| **Organization:** | Band | Band |
+| **Size:** | S-M (3-7' tall) | S-M (3-7' tall) |
+| **Special Attacks:** | Elemental transfusion | Elemental transfusion |
+| **Special Defenses:** | Nil | Nil |
+| **THAC0:** | 15 | 17 |
+| **Treasure:** | Q | Q |
+| **XP Value:** | 420 | 175 |
+
+**Psionics Summary**
+
+| Level | Dis/Sci/Dev | Attack/Defense | Score | PSPs |
+| --- | --- | --- | --- | --- |
+| 2 | 2/2/7 | II,EW/M-,TS | 12 | 60 |
+
+**Clairsentience -** *Science:* precognition; *Devotions:* feel sound, feel light.
+
+**Telepathy -** *Science:* mind link; *Devotions:* attraction, contact, life detection.
+
+Kraglings are creatures who have perished from the elemental transfusion attack of a [[Krag|krag]]. Anything that dies in this manner has a 45% chance of coming back as a kragling in 1-4 days. Kraglings, like the krags who created them, are undead creatures. They come in two versions: lesser kraglings and greater kraglings. Both types are described below.
+
+Kraglings look like skeletal versions of their living forms, though they also take on the appearance of their maker's element. Sun kraglings have baked and brittle-looking bones that reflect any ambient light, while rain kragling's bones are covered with slimy fungus or dripping molds. Other types should follow a similar type of appearance, based on the controlling element or paraelement.
+
+Any creature can become a kragling if it was killed by the elemental transfusion of a krag. [[Silt_Spawn|Silt spawn]], humanoids, demihumans, humans, and even nonhumanoid monsters are all subject to the transfusion attack and thus can become kraglings. What type of kragling and how powerful it is depends on the creature's Hit Dice.
+
+Greater kraglings are created when creatures with more than 4 Hit Dice are killed by a krag's elemental transfusion. Lesser kraglings are created via the same process, though the creatures must have less than 4 Hit Dice to fall into this weaker category.
+
+Kraglings can communicate with beings of their new element and can also speak whatever languages they knew in life. They can communicate with the krags who created them through a special psionic link.
+
+**Combat:** Kraglings attack by claws or whatever other natural appendages they might have. Even creatures who did not have claws in life will develop them when they become kraglings. Lesser kraglings cause 1d4 points of damage with each successful claw strike, while greater kraglings cause 1d6 points of damage. Greater kraglings may occasionally use weapons, though those of magma or fire will not, since their touch eventually destroys most materials.
+
+The kragling's special attack is a lesser version of the krag's elemental transfusion delivered with the monster's bite. The effects of the elemental transfusion are in addition to the normal damage caused by the bite (1d10 for lesser kraglings, 2d10 for greater kraglingss). In the case of the kragling, the elemental transfusion produces much more of a local effect. A magma kragling's bite, for instance, leaves a steaming wound spattered with molten stone. The bite of a water kragling causes the wound to swell and burst with excess moisture. They can't create other kraglings using this attack.
+
+The elemental transfusion of a kragling has the following affect, depending on whether or not the victim made a saving throw versus death magic. For a lesser kragling, a save means that no additional effect is evident, while a failed save causes 1d4 points of additional damage from the transfusion. For a greater kragling, the transfusion causes 1d6 points of additional damage. A successful save cuts the damage in half.
+
+Kraglings have no control over the elements they are tied to. They are immune to their patron element and are adversely affected by diametrically opposed powers (just like the krags who created them). As with krags, priests receive a +2 bonus to turn kraglings of the same element.
+
+When destroyed by the turning ability of a cleric, a kragling collapses into a pile of bones and the element it is tied to. In this case, the kragling is completely destroyed. When destroyed by spells or combat, a kragling will reform in 1d12 days and return to the service of its krag master.
+
+**Habitat/Society:** Kraglings of low intelligence tend to mimic the actions they performed when they were alive. Kragling [[Zhackal|zhackals]], or instance, continue to roam about the krag's lair and hunt for food, even though they no longer need to eat. Kraglings with more intelligence know what they are and remember their painful deaths. Though they are aware of their actions and may even be opposed to them, the krag exercises complete control over the minds and bodies of the kraglings it created, and can command them at any time. Typical directions given to kraglings by the krags who control them include protecting the region around the krag's lair and the lair itself, seeking out other victims ripe for transformation into kraglings, and watching for signs of powerful intruders - especially intruders aligned to a krag's opposite element.
+
+Kraglings of different species under the control of a specific krag tend to form bonds similar to clutchmates of living creatures. Even creatures that were enemies in life find a common bond as kraglings under a specific krag.
+
+**Ecology:** Kraglings don't need to eat or sleep, though many will continue to pass food through their skeletal ribs in a pathetic mockery of their former lives. When not stalking prey, a kragling will almost always be found in the vicinity of its master, and more times than not in the company of other kraglings.
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/City_by_the_Silt_Sea.jpg)
+
+**Source Publication:** City by the Silt Sea (1994)
+**Campaign Setting:** Dark Sun
+**Author(s):** Shane Lacy Hensley
+
+### Other Creatures Found in This Source Book
+   * [[Beetle_Dragon|Beetle, Dragon]]
+   * [[Caller_in_Darkness|Caller in Darkness]]
+   * [[Dray|Dray]]
+   * [[Dregoth|Dregoth]]
+   * [[Dwarf_Cursed_Dead|Dwarf, Cursed Dead]]
+   * [[Kalin|Kalin]]
+   * [[Krag|Krag]]
+   * [[Pit_Snatcher|Pit Snatcher]]
+   * [[Silt_Serpent|Silt Serpent]]
+   * [[Silt_Spawn|Silt Spawn]]
+   * [[Venger|Venger]]
+   * [[Wall_Walker|Wall Walker]]

@@ -1,0 +1,94 @@
+# Genie of Zakhara - Djinni
+
+![](_assets/Genie_of_Zakhara_Djinni_1.jpg)
+
+| Statistic | **Genie of Zakhara, Djinni** |
+| --- | --- |
+| **Activity Cycle:** | Day |
+| **Alignment:** | Chaotic good |
+| **Armor Class:** | 4 |
+| **Climate/Terrain:** | Air, desert |
+| **Damage/Attack:** | 2-16(2d8) |
+| **Diet:** | Omnivore |
+| **Frequency:** | Very rare |
+| **Hit Dice:** | 7+3 |
+| **Intelligence:** | Average to highly (8-14) |
+| **Magic Resistance:** | Nil |
+| **Morale:** | Elite (13-14) |
+| **Movement:** | 9, Fl 24 (A) |
+| **No. Appearing:** | 1 |
+| **No. of Attacks:** | 1 |
+| **Organization:** | Caliphate |
+| **Size:** | L (10½ wing span) |
+| **Special Attacks:** | Whirlwind; see below |
+| **Special Defenses:** | Air-based combat; see below |
+| **THAC0:** | 13 |
+| **Treasure:** | F |
+| **XP Value:** | 6,000 |
+
+Djinn are proud, sensuous genies from the Elemental Plane of Air (*Djinn* is plural; *djinni* is singular.) While an adventurer may encounter these creatures in great number on their home plane, djinn tend to be solitary when visiting the Land of Fate. They favor the uncluttered vistas of the open desert to densely populated regions. Djinn are somewhat friendly toward mortals, however, and as a result, they may visit Zakhara's cities.
+
+Djinn look like exceedingly tall, well-muscled men and women. Their features are noble and attractive. Their skin color ranges from pale blue to the more common olive-brown and dark tan of desert natives. Their eyes are usually brown, but there are also blue-eyed djinn, who are believed to be marked by Fate for great actions. (Blue also suggests increased powers of the *evil eye*, however.) Djinn dress in airy, shimmering silks, which are designed for comfort as well as to flaunt their musculature. 
+
+Like most genies, djinn have a limited form of telepathy, which enables them to converse with any being of low intelligence or better. (This can make djinn valuable translators. Let negotiators beware, however: capricious djinn may relay their own "interpretations.") Djinn also speak Midani, as well as the language shared by all geniekind. The djinn dialect of the latter is sibilant and melodious, like a breeze passing through an orchard.
+
+**Combat:** Djinn can use each of the following spell-like abilities once per day: They can *create nutritious food* for 2 to 12 (2d6) persons and *create water* or *wine* for 2 to 12 (2d6) persons. They can *create soft goods* (up to 16 cubic feet) or *wooden items* (up to 9 cubic feet) of a permanent nature. They also can *create metal* with a short lifespan. (The harder the metal, the shorter its duration. While djinni gold lasts 24 hours, djinni steel lasts but an hour.) Djinn cancreate illusions
+
+ that have both visible and audible components, and that last without concentration until they are touched or dispelled. All of these illusions are cast with the ability of a 20th-level wizard. (A sha'ir who is able to identify the works of geniekind can use that ability to detect the source of a djinni's illusions.) A djinni can also become *invisible*, *assume gaseous form*, and *wind walk*.
+
+Also once per day, a Zakharan djinni has the ability to harness the air and create a whirlwind, which the creature can ride or even direct at will from a distance (usually to attack, with a range of sight). The whirlwind is a cone-shaped spiral, measuring up to 10 feet across at its base, 40 feet at the top, and up to 70 feet in height. (The djinni chooses the whirlwind's dimensions.) Its maximum speed is 18, with maneuverability class A. The base of the whirlwind must touch earth, water, or some solid surface; else the whirlwind dissolves. It takes a full turn for the whirlwind to form or dissolve. During that turn, the funnel cloud inflicts no damage, nor does it have any other effect. The whirlwind lasts as long as the djinni concentrates upon it, moving at the creature's whim.
+
+ If the whirlwind strikes a nonaerial creature of fewer than 2 Hit Dice, the creature may be swept off its feet, battered, and killed. To avoid these effects, the target must make a successful saving throw vs. breath weapon for each round of contact with the whirlwind. Hardier beings-as well as all aerial or airborne creature - suffer 2 to 12 (2d6) points of damage per round of contact with the whirlwind.
+
+ As noted above, the djinni can ride its whirlwind. The djinni may even allow passengers on board, who (like the djinni) suffer no damage from the buffeting winds. Besides the djinni, the whirlwind can carry up to six man-sized or three genie-sized creatures without slowing.
+
+ Because of their link to the Elemental Plane of Air, djinn enjoy an advantage in air-based combat. Creatures or attacks based on elemental air suffer a -1 penalty to attack and damage rolls when battling a djinni. In addition, a djinni gains a +4 bonus to saving throws against air-based attacks and elemental air spells, including poison gas attacks, gaseous breath weapons, and magics such as *cloudkill* and *control normal winds*.
+
+ Brute force is a poor persuader of djinn. Rather than be captured (or injured), a djinni who is overmatched in combat usually takes to flight and uses its whirlwind to buffet followers.
+
+ A djinni can carry up to 600 pounds without tiring, whether flying or traveling afoot. It can even carry 1,200 pounds for a short time: three turns if afoot, one turn if flying. For every 100 pounds less than 1,200, a djinni can walk or fly one additional turn before fatigue sets in. (For example, a djinni carrying 1,000 pounds can walk for up to five turns and fly for up to three.) Once fatigued, the creature must rest six turns before attempting further strenuous activity. These weight limitations do not apply to the djinni's whirlwind. However, any baggage or cargo that is not carried by the djinni - or by the djinni's passengers - is not protected; it can be damaged by the funnel cloud's high winds (items that fail a saving throw vs. crushing blow are destroyed).
+
+![](_assets/Genie_of_Zakhara_Djinni_2.jpg)
+
+ *Interplanar Travel*: Like most genies, djinn can travel freely to any elemental plane, as well as to the Prime Material Plane, Ethereal Plane, and Astral Plane. They usually restrict their travel to the Elemental Plane of Air and the Prime Material Plane. Djinn may also be summoned to the Prime Material Plane as a result of a character's magical ability or item.
+
+**Habitat/Society:** The djinn's native land is the Elemental Plane of Air, where they settle floating islands of earth and rock. These landholds measure anywhere from 1,000 yards to several miles across. They are crammed with wondrous buildings, courtyards, fountains, and gardens, as well as topiary forms and sculptures made of elemental flames. While djinn can fly easily, most habitats of the non-noble djinn are built with nonflying creatures in mind. Sweeping staircases, ramps, slides, and ladders allow ambulatory servants and visitors to move around freely.
+
+A typical landhold is home to 3 to 30 (3d10) djinn, 1 to 10 jann, and 1 to 10 air elemental creatures of low intelligence. A single *sheikh*- always a djinni of maximum hit points - presides over the landhold. The sheikh answers to a loose confederation of *caliphs*. These caliphs are also served by *viziers*, *beys*, and *emirs*. The ultimate ruler of all djinn is the *Great Caliph*, Commander of the Four Winds, Defender of the Heavens, Master of the Air. All high-ranking creatures (from viziers and sheikhs to the Great Caliph) are [[Genie_Noble_Djinni|noble djinn]].
+
+ All djinn swear allegiance and fealty to the Great Caliph. His word is law. A djinni risks punishmentfor disobeying a local caliph, but death is the penalty for violating the Great Caliph's will.
+
+ Djinn landholds practice mutual defense. If one is attacked, its residents send messengers to other outposts. Soon, the entire djinn nation is mobilized and prepared for war. In the Elemental Plane of Air, solid building ground is at a premium (for any resident). Mutual defense allows the djinn to protect what they own. Other sentient races on the plane shy away from attacking djinn landholds, since they know that the djinn will return the attack in kind.
+
+ Although the caliphate organization is fairly loose, it still too restrictive for many free-living djinn. They often visit the Prime Material Plane for a respite from family and local lords. These vacationers favor the wild, open deserts, where they ride whirlwinds and visit jann (their genie cousins). Djinn found in the deep, forlorn desert usually want solitude, and they may view intruders unkindly.
+
+ Most djinn are friendly toward mortals, however. Of all the genie races, only jann are more tolerant of these "short-lived comical little creatures." While outright attacks on mortals are rare, djinn are mischievous. A favorite djinni trick is to create an illusionary person who implores a mortal to recover some item or to play some trick - always to djinni's advantage. This sort of mischief becomes especially heavy-handed against creatures who use wings or some artificial means to fly (such as a magic carpet). Djinn resent such creatures for challenging them in their own element.
+
+ Despite their impish nature, djinn consider some targets off limits for pranks. A djinni will rarely vexhigh-ranking or important mortals, because they may have ties to the Great Caliph. A djinni is also cautious aboutplaying tricks on another djinni.
+
+ Of the true genies, djinn are most amenable to servitude. A djinni may even forgive a mortal master's flaws and be amused by his or her petty actions. Limited servitude, believe the djinn, is a matter of Fate, and no being may contest the hand of Fate. Long-term service displeases the djinn, however. Imprisonment is anathema. And betrayal-particularly by a mortal whom they trusted - is a vile deed which only the most deadly vengeance can amend.
+
+ If a character desires the brief service of a djinni, the creature may be entreated with gifts of fine meals, gems, and magical treasures, or otherwise flattered and bribed into compliance-provided, of course, the service does not require too much risk or expenditure on the creature's part. Sha'irs of sufficient power may forgo such niceties; they can summon, bind into service, or imprison a djinni by using their spell-like abilities.
+
+**Ecology:** Djinn do not need to eat or drink. However, they do enjoy rich flavors, smells, andsensations. Succulent fruits, great feasts, pungent wines, fine perfumes, shimmering silks, smooth satins, softvelvets-these are common djinn desires. They are creatures of comfort and ease, working when forced to or when theysee a particular need. They prefer permanent, crafted materials to their own creations, and this brings them incontact with mortals.
+
+ The djinn are on good terms with jann and sometimes visit their desertcamps. They are on cool terms with marids, who tend to be haughty. Djinn outwardlydespise [[Genie_of_Zakhara_Dao|dao]] and [[Genie_of_Zakhara_Efreeti|efreet]], and rarely hesitate tostrike against them. A single djinni is weaker than a single dao or efreeti, however, so such an attack is either amassed ambush, or, more commonly, an assault in which a mortal is conned into aiding a djinni (thereby incurring thewrath of the dao or efreet).
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/Land_of_Fate_Box_Set.jpg)
+
+**Source Publication:** Land of Fate Box Set (1992)
+**Campaign Setting:** Al-Qadim (Forgotten Realms)
+**Author(s):** Jeff Grubb, Andria Hayday, Fred Fields, Karl Waller, David C. Sutherland III, Robin Raab, Stephanie Tabat, Dori Watry, Angelika Lokotz, John Knecht, Julia Martin, Jon Pickens, John Rateliff, Dori Watry, Thomas Reid, Michele Carter, Tim Beach, David Hirsch, Slade Henson.
+
+### Other Creatures Found in This Source Book
+   * [[Genie_of_Zakhara_Dao|Genie of Zakhara, Dao]]
+   * [[Genie_of_Zakhara_Efreeti|Genie of Zakhara, Efreeti]]
+   * [[Genie_of_Zakhara_Janni|Genie of Zakhara, Janni]]
+   * [[Genie_of_Zakhara_Marid|Genie of Zakhara, Marid]]
+   * [[Giant_Island|Giant, Island]]
+   * [[Giant_Ogre|Giant, Ogre]]
+   * [[Roc_Zakharan|Roc, Zakharan]]
+   * [[Yak-Man|Yak-Man]]

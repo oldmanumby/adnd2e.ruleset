@@ -1,0 +1,65 @@
+# Beast of Chaos
+
+![](_assets/Beast_of_Chaos.jpg)
+
+| Statistic | **Beast of Chaos** |
+| --- | --- |
+| **Activity Cycle:** | Any |
+| **Alignment:** | Chaotic neutral |
+| **Armor Class:** | 0 |
+| **Climate/Terrain:** | Any |
+| **Damage/Attack:** | 1d4/1d4/2d8/1d6/1d6 |
+| **Diet:** | Carnivore |
+| **Frequency:** | Very rare |
+| **Hit Dice:** | 9 |
+| **Intelligence:** | Animal (1) |
+| **Magic Resistance:** | 30% |
+| **Morale:** | Average (10) |
+| **Movement:** | 18 |
+| **No. Appearing:** | 1 or 1d6+1 |
+| **No. of Attacks:** | 5 |
+| **Organization:** | Solitary or pack |
+| **Size:** | S to H (3' to 15') |
+| **Special Attacks:** | Rage |
+| **Special Defenses:** | Immunities |
+| **THAC0:** | 11 |
+| **Treasure:** | Nil |
+| **XP Value:** | 3,000 / Flyer 4,000 |
+
+<q>Beasts of chaos</q> appear when the [[The_Queen_of_Chaos|Queen of Chaos]] focuses her attention on a world. She creates waves of entropy that flow over the land, transforming normal creatures into unnatural monsters. Most beasts of chaos are man-sized. If the transformed creature was tiny or small, its size increases one step. If the creature was large, huge, or gargantuan, its size decreases one step.
+
+A beast of chaos looks like a bizarre parody of the original creature. It becomes scabrous or mangy, with drooping flesh and a foul smell. Its color turns a digusting purple, mottled with veins of brown and speckled with bits of its original color. A beast of chaos has misshapen appendages, a sagging snout or proboscis, a toothy maw, and horns or tentacles.
+
+**Combat:** Beasts of chaos attack with their claws or hooves, a bite, and their horns or tentacles. Their attack routines generally reflect that of their original forms, but they don't attack in a coordinated fashion.
+
+All beasts of chaos are immune to *hold*, *sleep*, *haste*, *fear*, and all forms of magical confusion (including the *chaos* spell).
+
+Beasts of chaos have superior senses of smell and hearing but tend to be nearsighted and colorblind. Bright light hurts their beady eyes and enrages them, giving them a +2 bonus to initiative and attacks. Bright light includes sunlight (not common in chaos-twisted landscapes), continual light spells, and magical flashes such as sunburst or dazzle. If a light effect is continuous, a beast of chaos is enraged for as long as it remains in the area of effect. If the light effect is an instantaneous burst, the beast is enraged for 1d4+2 rounds.
+
+An artifact, the *Rod of Seven Parts*, can reverse the process that transformed the creature. An individual with the *Rod* can accomplish the feat on a roll of 5 or less on 1d20. Add the character's magical defense adjustment from Wisdom to the base score. For example, a character with a Wisdom of 18 must roll a 9 or less. For each segment that has been added to the *Rod*, the character adds one to the score. If the character in the example had all seven segments joined, his score would be 15. If the roll succeeds, all beasts of chaos within range revert to their normal forms. The range is 5 yards per segment of the *Rod*, 35 yards in the example.
+
+A beast of chaos that is shifted back to its normal form pauses for one round. The next round it flees at its maximum rate until the *Rod* bearer is out of sight. The retransformation is permanent.
+
+**Habitat/Society:** Beasts of chaos tend to cling to whatever basic form of organization they had. Members of a beast of chaos pack tend to stick together out more out of habit than anything else.
+
+Beasts of chaos roam aimlessly, having no fixed territories; when possible, they seek out terrain that is similar to their original homes. Because the terrain often changes along with the beasts, the creatures may have to wander a long time before they find an area to their liking.
+
+**Ecology:** Beasts of chaos can be formed from any creature with an intelligence of at least animal (1), but no higher than semiintelligent (2-4). No creature with 14 or more hit dice can become a beast of chaos, no matter what its intelligence is. A creature is allowed a saving throw vs. spell to resist the transformation.
+
+Beasts of chaos are sterile, and they concern themselves mainly with eating. A landscape populated by beasts of chaos eventually becomes desolate as the beasts age and die. A beast of chaos usually survives only four or five years, though they can live much longer than that if protected from mishaps and predators. As it is, beasts of chaos tend to survive just long enough to kill all the large game in the area, disrupting the natural food chain entirely.
+
+Beasts of chaos produce nothing useful. Their tough hides quickly rot when the beasts are killed. Attempts to tan their skins simply destroy the rotten hides. Likewise, their teeth, bones, and horns become as soft and brittle as unbaked clay when the beasts die; they are useful neither as tools nor containers. Their meat is foul and toxic. Even a single mouthful requires the creature consuming their flesh to make a saving throw vs. poison. If the saving throw is successful, the creature suffers 1d10 points of damage after an onset time of 1d4 rounds. If the saving throw fails, the creature suffers 2d10 points of damage each round for 2d6 rounds. Creatures that are immune to poison can feast on beast of chaos flesh, and [[Spyder_Fiend|spyder-fiends]] consider it a delicacy. A *neutralize poison* spell applied before the toxin takes effect prevents damage, but each mouthful requires a new saving throw.
+
+---
+## Discovery & Documentation
+
+![](_assets/sourcebooks/The_Rod_of_Seven_Parts.jpg)
+
+**Source Publication:** The Rod of Seven Parts (1996)
+**Campaign Setting:** Planescape
+**Author(s):** Skip Williams
+
+### Other Creatures Found in This Source Book
+   * [[Hound_of_Law|Hound of Law]]
+   * [[Spyder_Fiend|Spyder Fiend]]
+   * [[Vaati|Vaati]]
